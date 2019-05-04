@@ -1,2 +1,3 @@
 # BranchTesting
-Conflict test
+Just some testing of github.
+
