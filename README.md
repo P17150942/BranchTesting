@@ -1,1 +1,2 @@
 # BranchTesting
+Conflict test
